@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "message": "successfully to retrive data",
+  "data": [
+    {
+      "id": 1,
+      "name": "A",
+      "descriptionList": [
+        0,
+        0,
+        0
+      ],
+      "image": "https://me.blanky.tech"
+    },
+    {
+      "id": 1,
+      "name": "A",
+      "descriptionList": [
+        0,
+        0,
+        0
+      ],
+      "image": "https://me.blanky.tech"
+    }
+  ]
+}
